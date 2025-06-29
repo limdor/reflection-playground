@@ -13,3 +13,4 @@ This is a repository to play around with C++ reflection that was voted into the 
 ## Examples
 
 - [Print all elements in a given namespace](./elements_in_namespace.cpp) (Compiler explorer: [Clang](https://cppx.godbolt.org/z/6dbjYecEx))
+- [Print all classes in a given namespace](./classes_in_namespace.cpp) (Compiler explorer: [Clang](https://cppx.godbolt.org/z/9b8hK3d59))
