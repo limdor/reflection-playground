@@ -9,3 +9,7 @@ This is a repository to play around with C++ reflection that was voted into the 
 - [P1306 - Expansion statements](https://wg21.link/p1306)
 - [P3096 - Function parameter reflection in reflection for C++26](https://wg21.link/p3096)
 - [P3560 - Error handling in reflection](https://wg21.link/p3560)
+
+## Examples
+
+- [Print all elements in a given namespace](./elements_in_namespace.cpp) (Compiler explorer: [Clang](https://cppx.godbolt.org/z/6dbjYecEx))
