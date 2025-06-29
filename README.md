@@ -15,3 +15,4 @@ This is a repository to play around with C++ reflection that was voted into the 
 - [Print all elements in a given namespace](./elements_in_namespace.cpp) (Compiler explorer: [Clang](https://godbolt.org/z/6dbjYecEx))
 - [Print all classes in a given namespace](./classes_in_namespace.cpp) (Compiler explorer: [Clang](https://godbolt.org/z/9b8hK3d59))
 - [Generate the binding code for emscripten for a class](./emscripten_bindings.cpp) (Compiler explorer: [Clang](https://godbolt.org/z/vdWMqcb89))
+- [Generate the binding code for emscripten for a class (naïve approach not working)](./emscripten_bindings.cpp) (Compiler explorer: [Clang](https://godbolt.org/z/dr1Kczb1n))
